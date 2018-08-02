@@ -31,7 +31,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DubboConsumerDemo {
 
     public static void main(String[] args) {
-
+        System.out.println("bootstrap");
         SpringApplication.run(DubboConsumerDemo.class,args);
 
     }
