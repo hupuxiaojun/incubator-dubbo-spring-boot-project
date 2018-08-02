@@ -22,7 +22,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Dubbo Consumer Demo
- * test
+ *
  * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
  * @see DemoConsumerController
  * @since 1.0.0
